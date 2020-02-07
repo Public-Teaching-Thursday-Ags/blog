@@ -1,28 +1,13 @@
 ---
 layout: post
-title:  "NiFi Quickstart"
+title:  "NiFi Kafa Consumers and producers"
 date:   2020-02-06 11:46:09 -0600
-tags: [ETL, nifi, microservices]
+tags: [ETL, nifi, microservices,kafka, producer,consumer]
 ---
 
 ## Kafka Consumers
 
 ## Kafka Producers
-
-## Readers
-
-## Writers
-
-## Version Control
-
-## Deployment
-
-## Jolt transformations
-
-## Data Provenance
-
-## JsonPath
-
 
 ### Resources
 https://nifi.apache.org/docs/nifi-docs/html/expression-language-guide.html#format
